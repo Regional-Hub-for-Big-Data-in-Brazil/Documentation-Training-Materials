@@ -14,5 +14,5 @@ Explore the documentation and educational resources produced by the Regional Hub
 
 ### Related Resources
 
-- 🌐 Website: https://www.bigdata-brazil.org
+- 🌐 Website: https://hub.ibge.gov.br/
 - 🏛️ Regional Hub for Big Data in Brazil
