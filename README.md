@@ -8,6 +8,7 @@ Explore the documentation and educational resources produced by the Regional Hub
 
 ### Training Materials
 
+-  [Workshop Web Scrapping]
 - Training modules (coming soon)
 - Tutorials and practical guides (coming soon)
 - Workshops and presentations (coming soon)
