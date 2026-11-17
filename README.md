@@ -8,7 +8,6 @@ Explore the documentation and educational resources produced by the Regional Hub
 
 ### Training Materials
 
-- [README](README.md)
 - [2nd Workshop Concept Note](2ndWorkshopConceptNote.pdf)
 - [ARIES Workshop Concept Note](ARIES_WorkshopConceptNote.pdf)
 - [Workshop Web Scraping](WorkshopWebScraping.zip)
