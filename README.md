@@ -8,12 +8,14 @@ Explore the documentation and educational resources produced by the Regional Hub
 
 ### Training Materials
 
--  [Workshop Web Scrapping]
--  [ARES Workshop]
--  [2nd Workshop]
+- [README](README.md)
+- [2nd Workshop Concept Note](2ndWorkshopConceptNote.pdf)
+- [ARIES Workshop Concept Note](ARIES_WorkshopConceptNote.pdf)
+- [Workshop Web Scraping](WorkshopWebScraping.zip)
+
 - Training modules (coming soon)
-- Tutorials and practical guides (coming soon)
-- Workshops and presentations (coming soon)
+- Tutorials and practical guides (more coming soon)
+- Workshops and presentations (more coming soon)
 
 ### Related Resources
 
